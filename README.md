@@ -39,9 +39,9 @@ We are going to:
 
 1. Talk to Alexander at the [rear entrance to Gael Tunnel](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167223). #quest #alexander #limgrave
 
-1. Talk to Boc [in Liurnia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165682)
+1. Talk to Boc [in Liurnia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165682) #quest #boc #liurnia
 
-1. Find Gold Sewing Needle and Golden Tailoring Tools in [the Church of Vows](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165648)
+1. Find Gold Sewing Needle and Golden Tailoring Tools in [the Church of Vows](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165648) #quest #boc #liurnia
 
 1. Talk to Boc [near Bellum Highway](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167183). #quest #boc #liurnia
 
