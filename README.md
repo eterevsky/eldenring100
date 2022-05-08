@@ -17,11 +17,23 @@ We are going to:
 
 1. Discover [Lost Grace in Coastal Cave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165130). #grace #limgrave
 
+1. Find Yura [in Limgrave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170973). #quest #yura #limgrave
+
 1. Talk to Boc [at the Site of Grace in Coastal Cave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165130). #quest #boc #limgrave
 
 1. Defeat Demi-Human Chiefs in [Coastal Cave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164031) and loot Sewing Needle and Tailoring Toos. #quest #boss #limgrave
 
+1. Continue through the cave to discover [Church of Dragon Communion](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=163997). #grace #limgrave
+
 1. Return Sewing Needle and Tailoring Tools to Boc [at the Site of Grace in Coastal Cave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165130). #quest #boc #limgrave
+
+1. Defeat [Flying Dragon Agheel](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164484). optionally summon Yura [near Dragon-Burnt Ruins](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169082) #boss #quest #yura #limgrave
+
+1. Return to Yura [South of the Dragon-Burnt Ruins](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164632) #quest #yura #limgrave
+
+1. Approach [Murkwater Cave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164022), get invaded by Bloody Finger Nerijus, defeat him with Yura's help. #invasion #quest #yura #limgrave
+
+1. Speak to Yura [near Murkwater Cave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164022). #quest #yura #limgrave
 
 1. Go to [Mistwood Ruins](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165205) at night and listen for the wolf howl. #quest #blaidd #limgrave
 
@@ -42,6 +54,10 @@ We are going to:
 1. Talk to Boc [in Liurnia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165682) #quest #boc #liurnia
 
 1. Find Gold Sewing Needle and Golden Tailoring Tools in [the Church of Vows](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165648) #quest #boc #liurnia
+
+1. Interact with Yura's summoning sigil [at the entrace to Raya Lucaria](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166758). Defeat Bloody Finger Assassin. #invasion #quest #yura #liurnia
+
+1. Talk to Yura [at the entrace to Raya Lucaria](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166758) and get Smithing Stone [5]. #quest #yura #liurnia
 
 1. Talk to Boc [near Bellum Highway](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167183). #quest #boc #liurnia
 
@@ -65,7 +81,11 @@ We are going to:
 
 1. Talk to Blaid [after defeating Radahn](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168111). #calid #quest #blaidd #ranni
 
-1. Release Blaidd [from Forlorn Hound Evergaol](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170964) #quest #blaidd #limgrave
+1. Release Blaidd [from Forlorn Hound Evergaol](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170964). #quest #blaidd #limgrave
+
+1. Talk to Yura in [Second Church of Marika](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168052). #quest #yura #altus
+
+1. Defeat Eleonora, Violet Bloody Finger in [Second Church of Marika](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168052). #invasion #quest #yura #altus
 
 1. Discover [Nokstella, Eternal City](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167481) site of grace. #grace #ainsel
 
@@ -77,6 +97,8 @@ We are going to:
 
 1. Talk to Alexander [near Magma Wyrm on Mt. Gelmir](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167816) #quest #alexander #gelmir
 
-1. Talk to Boc in Leyndell #quest #boc #leyndell
+1. Talk to Boc in Leyndell. #quest #boc #leyndell
 
-1. Talk to Alexander [in Crumbling Farum Azula] #quest #alexander #azula
+1. Talk to Alexander in Crumbling Farum Azula. #quest #alexander #azula
+
+1. Talk to Yura [in Zamor Ruins](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169813).
