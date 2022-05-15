@@ -65,13 +65,25 @@ We are going to:
 
 1. Talk to Boc [in Liurnia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165682) #quest #boc #liurnia
 
+1. Talk to Fia, Deathbed Companion [in her chamber](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167503). #quest #fia #roundtable
+
 1. Find Gold Sewing Needle and Golden Tailoring Tools in [the Church of Vows](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165648) #quest #boc #liurnia
+
+1. Defeat Black Knife Assassin in [Black Knife Catacombs](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166481) and obtain Black Knifeprint. #boss #dungeon #quest #rogier
+
+1. Give Black Knifeprint to Rogier [in the Rountable Hold](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168232). #quest #rogier #fia #roundtable
+
+1. Talk to [Fia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167503). #quest #fia #rogier
+
+1. Rest at the site of grace in the Roundtable Hold and speak to [Rogier](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168232). #quest #fia #rogier #roundtable
 
 1. Interact with Yura's summoning sigil [at the entrace to Raya Lucaria](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166758). Defeat Bloody Finger Assassin. #invasion #quest #yura #liurnia
 
 1. Talk to Yura [at the entrace to Raya Lucaria](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166758) and get Smithing Stone [5]. #quest #yura #liurnia
 
 1. Talk to Boc [near Bellum Highway](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167183). #quest #boc #liurnia
+
+1. Talk to Melina about Boc [at the East Raya Lucaria Gate site of grace](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164179). #quest #boc #liurnia
 
 1. Talk to Blaidd's ghost [in Ranni's Tower](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166648). #quest #blaidd #ranni #liurnia
 
@@ -105,7 +117,11 @@ We are going to:
 
 1. Rest at the site of grace [in Roundtable Hold](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166212). #quest #d #fia #roundtable
 
-1. At the [former Fia's location](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167503) pick up Twinned Set and D's Bell Bearing 
+1. Buy from [Finger Reader Enia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170553) any piece of legendary armore. #quest #boc #roundtable
+
+1. At the [former Fia's location](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167503) pick up Twinned Set and D's Bell Bearing
+
+1. Talk to Fia behind Smithing Master Hewg. #quest #fia #roundtable
 
 1. Talk to Yura in [Second Church of Marika](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168052). #quest #yura #altus
 
@@ -119,14 +135,32 @@ We are going to:
 
 1. Fight [Baleful Shadow invasion](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168546). Get Discarded Palace Key. #invasion #quest #ranni #blaidd #ainsel
 
+1. Get Cursemark of Death from the [Divine Tower of Liurnia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169305). #quest #fia #liurnia
+
 1. Defeat Blaidd [at Ranni's Rise](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168984). Blaidd's quest finished. #boss #quest #blaidd #liurnia
 
 1. Talk to Alexander [near Magma Wyrm on Mt. Gelmir](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167816) #quest #alexander #gelmir
 
+1. Talk to Fia next to [Prince of Death's Throne](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169059) in Deeproot Depth, embrace her. #quest #fia #deeproot
+
 1. Talk to D's Brother [next to Fia in Deeproot Depth](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170983). #quest #d #deeproot
+
+1. Rest at [Prince of Death's Throne site of grace](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167604). #quest #fia #deeproot
+
+1. Obtain Twinned Set and Inseparable Sword from [D's brother](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170983). #quest #d #deeproot
+
+1. Speak with [Fia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169059), enter her dream and defeat Lichdragon Fortissax. #boss #quest #fia #deeproot
+
+1. Approach [Fia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169059) again and get the Mending Rune of the Death-Prince and Fia's Set. #quest #fia #deeproot
 
 1. Talk to Boc in Leyndell. #quest #boc #leyndell
 
+1. Give Boc the Golden Sewing Needle. #quest #boc #liurnia
+
+1. Use Prattling Pate "You're Beautiful" in front of Boc OR give Boc a Larval Tear.
+
+1. If you've given Boc a Larval Tear, visit him [in the Grand Library of Raya Lucaria](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170555). #quest #boc #liurnia
+
 1. Talk to Alexander in Crumbling Farum Azula. #quest #alexander #azula
 
-1. Talk to Yura [after entring Mountains of the Giants](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169813). #quest #yura #mountains
+1. Talk to Yura [after entering Mountains of the Giants](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169813). #quest #yura #mountains
