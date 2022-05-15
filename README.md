@@ -43,13 +43,25 @@ We are going to:
 
 1. Meet Blaidd [near the Forlorn Hound Evergaol](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170964). Talk to him before entering the gaol. #quest #blaidd #limgrave
 
-1. Defeat Bloodhound Knight Darriwil in [Forlorn Hound Evergaol](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=163965). #boss #limgrave
+1. Defeat Bloodhound Knight Darriwil in [Forlorn Hound Evergaol](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=163965). #boss #limgrave #quest #blaidd
 
 1. Talk to Blaidd [near the Forlorn Hound Evergaol](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170964). #quest #blaidd #limgrave
 
 1. Find Alexander [in Limgrave](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164117). #quest #alexander #limgrave
 
+1. Talk to D, Hunter of the Dead [in Limgrave on the road to Caelid](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164536). #quest #d #limgrave
+
+1. Defeat Tibia Mariner [in Summonwater Village](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164859]. #boss #quest #d #limgrave
+
+1. Talk to D [in Summonwater Village](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165684). #quest #d #limgrave
+
 1. Talk to Alexander at the [rear entrance to Gael Tunnel](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167223). #quest #alexander #limgrave
+
+1. Use the teleport [near the Third Church of Marika](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165596) to travel to the [Bestial Sanctum](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164398). #quest #d #limgrave #caelid
+
+1. Give [Gurranq, Beast Clergyman](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164398) at least on Deathroot. #quest #d #gurranq #caelid
+
+1. Discover [Bestial Sanctum site of grace](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164396). #grace #caelid
 
 1. Talk to Boc [in Liurnia](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=165682) #quest #boc #liurnia
 
@@ -83,9 +95,23 @@ We are going to:
 
 1. Release Blaidd [from Forlorn Hound Evergaol](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170964). #quest #blaidd #limgrave
 
+1. Discover [Altus Plato site of grace](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166995). #grace #altus #quest #fia
+
+1. Speak with Fia near [Grand Lift of Dectus](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=164180) (?). #quest #fia #altus
+
+1. Talk to Fia [in Roundtable Hold](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167503) and receive from her the Weathered Dagger. #quest #fia #d #roundtable
+
+1. Give Weathered Dagger to D [in Roundtable Hold](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167782). #quest #d #fia #roundtable
+
+1. Rest at the site of grace [in Roundtable Hold](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=166212). #quest #d #fia #roundtable
+
+1. At the [former Fia's location](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167503) pick up Twinned Set and D's Bell Bearing 
+
 1. Talk to Yura in [Second Church of Marika](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168052). #quest #yura #altus
 
 1. Defeat Eleonora, Violet Bloody Finger in [Second Church of Marika](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168052). #invasion #quest #yura #altus
+
+1. Give Twinned Set to D's Brother [in Siofra Acqueduct](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=168405). #quest #d #acqueduct
 
 1. Discover [Nokstella, Eternal City](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167481) site of grace. #grace #ainsel
 
@@ -97,8 +123,10 @@ We are going to:
 
 1. Talk to Alexander [near Magma Wyrm on Mt. Gelmir](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=167816) #quest #alexander #gelmir
 
+1. Talk to D's Brother [next to Fia in Deeproot Depth](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=170983). #quest #d #deeproot
+
 1. Talk to Boc in Leyndell. #quest #boc #leyndell
 
 1. Talk to Alexander in Crumbling Farum Azula. #quest #alexander #azula
 
-1. Talk to Yura [in Zamor Ruins](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169813).
+1. Talk to Yura [after entring Mountains of the Giants](https://mapgenie.io/elden-ring/maps/the-lands-between?locationIds=169813). #quest #yura #mountains
