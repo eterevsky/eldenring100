@@ -29,7 +29,6 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 24. Find [Sirris](https://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms) in Firelink Shrine
 25. Find [Orbeck of Vinheim](https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim). Need to have Int 10 to invite him to Firelink Shrine.
 26. Defeat [Crystal Sage](https://darksouls3.wiki.fextralife.com/Crystal+Sage)
-27. Talk to Siegward in the well next to Cleansing Chapel bonfire (?)
 28. Interact with [Unbreakable Patches](https://darksouls3.wiki.fextralife.com/Unbreakable+Patches)
 29. Open big double blue doors across from Rosaria's Bedchamber Bonfire in Cathedral of the Deep.
 30. Again talk to Siegward in the well next to Cleansing Chapel bonfire (?)
