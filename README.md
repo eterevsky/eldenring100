@@ -1,13 +1,5 @@
-# Elden Ring 100%
-
-## Rules
-
-We are going to:
-* Kill all bosses.
-* Fulfill all quests.
-* Collect all unique items.
-* Collect all spells and ashes.
-* Discover all sites of grace.
+# Elden Ring
+(Work in progress)
 
 ## Plan
 
