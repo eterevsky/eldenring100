@@ -20,19 +20,21 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 15. Together with Siegward of Catarina fight Fire Deamon, and get from Siegfried Siegbrau.
 16. Find [Pale Tongue](https://darksouls3.wiki.fextralife.com/Pale+Tongue) in the Fire Demon area
 17. Defeat [Curse-Rotted Greatwood](https://darksouls3.wiki.fextralife.com/Curse-Rotted+Greatwood)
-18. Talk to [Leonhard](https://darksouls3.wiki.fextralife.com/Leonhard) and receive [Lift Chamber Key](https://darksouls3.wiki.fextralife.com/Lift+Chamber+Key)
-19. Give [Transposing Kiln](https://darksouls3.wiki.fextralife.com/Transposing+Kiln) to Ludleth
-20. Find [Braille Divine Tome of Carim](https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Carim) and give it to Irina
-21. Talk to [Anri](https://darksouls3.wiki.fextralife.com/Anri+of+Astora) and [Horace](https://darksouls3.wiki.fextralife.com/Horace+the+Hushed) in Road of Sacrifices
-22. Find [Sirris](https://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms) in Firelink Shrine
-23. Find [Orbeck of Vinheim](https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim). Need to have Int 10 to invite him to Firelink Shrine.
-24. Defeat [Crystal Sage](https://darksouls3.wiki.fextralife.com/Crystal+Sage)
-25. Talk to Siegward in the well next to Cleansing Chapel bonfire (?)
-26. Interact with [Unbreakable Patches](https://darksouls3.wiki.fextralife.com/Unbreakable+Patches)
-27. Open big double blue doors across from Rosaria's Bedchamber Bonfire in Cathedral of the Deep.
-28. Again talk to Siegward in the well next to Cleansing Chapel bonfire (?)
-29. Obtain Siegward's armor from Patches. Return it to Siegward in the well.
-30. Make sure [Patches](https://darksouls3.wiki.fextralife.com/Unbreakable+Patches) has relocated to Firelink Shrine. 
+18. Give [Transposing Kiln](https://darksouls3.wiki.fextralife.com/Transposing+Kiln) to Ludleth
+19. Talk to [Leonhard](https://darksouls3.wiki.fextralife.com/Leonhard) and receive [Lift Chamber Key](https://darksouls3.wiki.fextralife.com/Lift+Chamber+Key)
+20. Defeat [Darkwraith](https://darksouls3.wiki.fextralife.com/Darkwraith) in High Wall of Lothric
+21. Talk to Leonhard again in Firelink Shrine
+22. Find [Braille Divine Tome of Carim](https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Carim) and give it to Irina
+23. Talk to [Anri](https://darksouls3.wiki.fextralife.com/Anri+of+Astora) and [Horace](https://darksouls3.wiki.fextralife.com/Horace+the+Hushed) in Road of Sacrifices
+24. Find [Sirris](https://darksouls3.wiki.fextralife.com/Sirris+of+the+Sunless+Realms) in Firelink Shrine
+25. Find [Orbeck of Vinheim](https://darksouls3.wiki.fextralife.com/Orbeck+of+Vinheim). Need to have Int 10 to invite him to Firelink Shrine.
+26. Defeat [Crystal Sage](https://darksouls3.wiki.fextralife.com/Crystal+Sage)
+27. Talk to Siegward in the well next to Cleansing Chapel bonfire (?)
+28. Interact with [Unbreakable Patches](https://darksouls3.wiki.fextralife.com/Unbreakable+Patches)
+29. Open big double blue doors across from Rosaria's Bedchamber Bonfire in Cathedral of the Deep.
+30. Again talk to Siegward in the well next to Cleansing Chapel bonfire (?)
+31. Obtain Siegward's armor from Patches. Return it to Siegward in the well.
+32. Make sure [Patches](https://darksouls3.wiki.fextralife.com/Unbreakable+Patches) has relocated to Firelink Shrine. 
 21. Defeat [Deacons of the Deep](https://darksouls3.wiki.fextralife.com/Deacons+of+the+Deep)
 22. Talk to Anri in Firelink Shrine
 23. Find [Dreamchaser's Ashes](https://darksouls3.wiki.fextralife.com/Dreamchaser's+Ashes) and give them to Shrine Handmaid
