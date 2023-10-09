@@ -33,24 +33,26 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 29. Open big double blue doors across from Rosaria's Bedchamber Bonfire in Cathedral of the Deep.
 30. Again talk to Siegward in the well next to Cleansing Chapel bonfire (?)
 31. Obtain Siegward's armor from Patches. Return it to Siegward in the well.
-32. Make sure [Patches](https://darksouls3.wiki.fextralife.com/Unbreakable+Patches) has relocated to Firelink Shrine. 
 21. Defeat [Deacons of the Deep](https://darksouls3.wiki.fextralife.com/Deacons+of+the+Deep)
-22. Talk to Anri in Firelink Shrine
-23. Find [Dreamchaser's Ashes](https://darksouls3.wiki.fextralife.com/Dreamchaser's+Ashes) and give them to Shrine Handmaid
-24. Speak to Sirris in Firelink Shrine
-25. Defeat [Abyss Watchers](https://darksouls3.wiki.fextralife.com/Abyss+Watchers)
-26. Talk to Hawkwood to get [Farron Ring](https://darksouls3.wiki.fextralife.com/Farron+Ring)
-27. Return to the Shrine. Hawkwood should have left. Talk to Blacksmith Andre to get [Hawkwood's Shield](https://darksouls3.wiki.fextralife.com/Hawkwood's+Shield)
-28. Talk to Anri twice in Catacombs of Carthus.
-29. Kill [Horace](https://darksouls3.wiki.fextralife.com/Horace+the+Hushed) in Smouldering Lake
-30. Talk to Anri again in Catacombs of Carthus
-31. Defeat [High Lord Wolnir](https://darksouls3.wiki.fextralife.com/High+Lord+Wolnir)
-32. Kill the [Sulyvahn's Beast](https://darksouls3.wiki.fextralife.com/Sulyvahn's+Beast) at the bridge to Irithyll.
-33. Rest at the bonfire and find Sirris' summoning sign on the bridge to Irithyll. Use it to help Sirris fight [Creighton the Wanderer](https://darksouls3.wiki.fextralife.com/Creighton+the+Wanderer).
-34. Talk to Sirris in Firelink Shrine.
-35. Talk to [Anri](https://darksouls3.wiki.fextralife.com/Anri+of+Astora) at the [Church of Yorshka](https://darksouls3.wiki.fextralife.com/Church+of+Yorshka)
-36. Kill the pilgrim in or near the Church of Yorshka.
-37. Defeat [Pontiff Sulyvahn](https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn).
+23. Talk to Anri in Firelink Shrine
+24. Buy [Tower Key](https://darksouls3.wiki.fextralife.com/Tower+Key) from the Shrine Maid and visit the tower.
+25. On the way back from the bell tower, get ambushed by Patches.
+26. Give [Fire Keeper Soul](https://darksouls3.wiki.fextralife.com/Fire+Keeper+Soul) to the Fire Keeper.
+27. Find [Dreamchaser's Ashes](https://darksouls3.wiki.fextralife.com/Dreamchaser's+Ashes) and give them to Shrine Handmaid
+28. Speak to Sirris in Firelink Shrine
+29. Defeat [Abyss Watchers](https://darksouls3.wiki.fextralife.com/Abyss+Watchers)
+30. Talk to Hawkwood to get [Farron Ring](https://darksouls3.wiki.fextralife.com/Farron+Ring)
+31. Return to the Shrine. Hawkwood should have left. Talk to Blacksmith Andre to get [Hawkwood's Shield](https://darksouls3.wiki.fextralife.com/Hawkwood's+Shield)
+32. Talk to Anri twice in Catacombs of Carthus.
+33. Kill [Horace](https://darksouls3.wiki.fextralife.com/Horace+the+Hushed) in Smouldering Lake
+34. Talk to Anri again in Catacombs of Carthus
+35. Defeat [High Lord Wolnir](https://darksouls3.wiki.fextralife.com/High+Lord+Wolnir)
+36. Kill the [Sulyvahn's Beast](https://darksouls3.wiki.fextralife.com/Sulyvahn's+Beast) at the bridge to Irithyll.
+37. Rest at the bonfire and find Sirris' summoning sign on the bridge to Irithyll. Use it to help Sirris fight [Creighton the Wanderer](https://darksouls3.wiki.fextralife.com/Creighton+the+Wanderer).
+38. Talk to Sirris in Firelink Shrine.
+39. Talk to [Anri](https://darksouls3.wiki.fextralife.com/Anri+of+Astora) at the [Church of Yorshka](https://darksouls3.wiki.fextralife.com/Church+of+Yorshka)
+40. Kill the pilgrim in or near the Church of Yorshka.
+41. Defeat [Pontiff Sulyvahn](https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn).
 36. Allow Greirat to go to Irithyll Dungeon.
 38. After Greirat is back, speak to Siegward of Catarina in Irithyll.
 39. Find [Karla](https://darksouls3.wiki.fextralife.com/Karla) in Irithyll Dungeon
