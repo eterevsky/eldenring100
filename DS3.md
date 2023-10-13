@@ -50,17 +50,19 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 36. Kill the [Sulyvahn's Beast](https://darksouls3.wiki.fextralife.com/Sulyvahn's+Beast) at the bridge to Irithyll.
 37. Rest at the bonfire and find Sirris' summoning sign on the bridge to Irithyll. Use it to help Sirris fight [Creighton the Wanderer](https://darksouls3.wiki.fextralife.com/Creighton+the+Wanderer).
 38. Talk to Sirris in Firelink Shrine.
-36. Allow Greirat to go to Irithyll
+36. Send Greirat to Irithyll
 39. Talk to [Anri](https://darksouls3.wiki.fextralife.com/Anri+of+Astora) at the [Church of Yorshka](https://darksouls3.wiki.fextralife.com/Church+of+Yorshka)
-40. Kill the pilgrim in or near the Church of Yorshka.
-41. Defeat [Pontiff Sulyvahn](https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn).
+40. Kill the disguised pilgrim in the Church of Yorshka.
+41. *Don't* talk to Siegward when you see him in the kitchen after the sewers.
+42. Defeat [Pontiff Sulyvahn](https://darksouls3.wiki.fextralife.com/Pontiff+Sulyvahn).
 38. Greirat should be back at Firelink Shrine
-39. Speak to Siegward of Catarina in Irithyll.
-45. Accept Anri's summon next to the doors into Anor Londo cathedral
-46. Talk to Ludleth to receive [Anri's Straight Sword](https://darksouls3.wiki.fextralife.com/Anri's+Straight+Sword)
+39. Speak to Siegward of Catarina in the kitchen in Irithyll.
+45. Accept Anri's summon next to the doors into Anor Londo cathedral.
 47. Defeat [Aldrich](https://darksouls3.wiki.fextralife.com/Aldrich,+Devourer+of+Gods)
-40. Find [Karla](https://darksouls3.wiki.fextralife.com/Karla) in Irithyll Dungeon
+46. Talk to Ludleth to receive [Anri's Straight Sword](https://darksouls3.wiki.fextralife.com/Anri's+Straight+Sword)
+47. Talk to Siegward of Catarina in Irithyll Dungeon.
 41. Find [Old Cell Key](https://darksouls3.wiki.fextralife.com/Old+Cell+Key) in Irithyll Dungeon.
+40. Find [Karla](https://darksouls3.wiki.fextralife.com/Karla) in Irithyll Dungeon
 42. Find [Twinkling Dragon Torso Stone](https://darksouls3.wiki.fextralife.com/Twinkling+Dragon+Torso+Stone) in Archdragon Peak.
 43. Talk to Blacksmith Andre. He will give you a message from Hawkwood requesting a duel.
 44. Meet Hawkwood at the Abyss Watchers arena and defeat him.
