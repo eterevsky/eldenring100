@@ -63,6 +63,13 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 47. Talk to Siegward of Catarina in Irithyll Dungeon.
 41. Find [Old Cell Key](https://darksouls3.wiki.fextralife.com/Old+Cell+Key) in Irithyll Dungeon.
 40. Find [Karla](https://darksouls3.wiki.fextralife.com/Karla) in Irithyll Dungeon
+54. Free Siegward of Catarina in Profaned Capital, using Old Cell Key.
+55. Defeat [Yhorm](https://darksouls3.wiki.fextralife.com/Yhorm+the+Giant). (Siegward of Catarina will join you.)
+56. Talk to Siegward immediately after defeating Yhorm.
+57. Defeat [Dancer of the Boreal Valley](https://darksouls3.wiki.fextralife.com/Dancer%2Bof%2Bthe%2BBoreal%2BValley)
+58. Find [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) in the Untended Graves.
+59. Give [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) to the Fire Keeper.
+60. Don't allow Greirat to go to Lothric Castle unless you want him to die.
 42. Find [Twinkling Dragon Torso Stone](https://darksouls3.wiki.fextralife.com/Twinkling+Dragon+Torso+Stone) in Archdragon Peak.
 43. Talk to Blacksmith Andre. He will give you a message from Hawkwood requesting a duel.
 44. Meet Hawkwood at the Abyss Watchers arena and defeat him.
@@ -72,13 +79,6 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 51. Talk to Sirris in Firelink Shrine, accept her service.
 52. Defeat [Ancient Wyvern](https://darksouls3.wiki.fextralife.com/Ancient+Wyvern)
 53. Defeat [Nameless King](https://darksouls3.wiki.fextralife.com/Nameless+King)
-54. Free Siegward of Catarina in Profaned Capital, using Old Cell Key.
-55. Defeat [Yhorm](https://darksouls3.wiki.fextralife.com/Yhorm+the+Giant). (Siegward of Catarina will join you.)
-56. Talk to Siegward immediately after defeating Yhorm.
-57. Defeat [Dancer of the Boreal Valley](https://darksouls3.wiki.fextralife.com/Dancer%2Bof%2Bthe%2BBoreal%2BValley)
-58. Find [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) in the Untended Graves.
-59. Give [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) to the Fire Keeper.
-60. Don't allow Greirat to go to Lothric Castle unless you want him to die.
 61. Find [Braille Divine Tome of Lothric](https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Lothric) and give it to Irina
 62. Buy all the light spells (those not from Londor Braille Divine Tome or the Deep Braille Divine Tome) from Irina of Carim and she will become a fire keeper.
 63. Defeat the [Twin Princes](https://darksouls3.wiki.fextralife.com/Lothric,+Younger+Prince).
