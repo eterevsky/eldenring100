@@ -66,7 +66,8 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 51. Talk to Sirris in Firelink Shrine, accept her service.
 47. Talk to Siegward of Catarina in Irithyll Dungeon.
 41. Find [Old Cell Key](https://darksouls3.wiki.fextralife.com/Old+Cell+Key) in Irithyll Dungeon.
-40. Find [Karla](https://darksouls3.wiki.fextralife.com/Karla) in Irithyll Dungeon
+42. Find [Jaile's Key Ring](https://darksouls3.wiki.fextralife.com/Jailer's+Key+Ring).
+40. Find and free [Karla](https://darksouls3.wiki.fextralife.com/Karla) in Profaned Capital
 54. Free Siegward of Catarina in Profaned Capital, using Old Cell Key.
 55. Defeat [Yhorm](https://darksouls3.wiki.fextralife.com/Yhorm+the+Giant). (Siegward of Catarina will join you.)
 56. Talk to Siegward immediately after defeating Yhorm.
