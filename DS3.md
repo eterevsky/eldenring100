@@ -60,6 +60,10 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 45. Accept Anri's summon next to the doors into Anor Londo cathedral.
 47. Defeat [Aldrich](https://darksouls3.wiki.fextralife.com/Aldrich,+Devourer+of+Gods)
 46. Talk to Ludleth to receive [Anri's Straight Sword](https://darksouls3.wiki.fextralife.com/Anri's+Straight+Sword)
+48. Buy [Budding Green Blossom](https://darksouls3.wiki.fextralife.com/Budding+Green+Blossom) from Shrine Handmaid
+49. Use summon sign outside the Curse-Rotted Greatwood to be summoned by Sirris to defeat [Hodrick](https://darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick). Loot [Sunset Armor Set](https://darksouls3.wiki.fextralife.com/Sunset+Armor+Set) after returning to your world.
+50. Find [Sunset Shield](https://darksouls3.wiki.fextralife.com/Sunset+Shield) near Firelink Shrine.
+51. Talk to Sirris in Firelink Shrine, accept her service.
 47. Talk to Siegward of Catarina in Irithyll Dungeon.
 41. Find [Old Cell Key](https://darksouls3.wiki.fextralife.com/Old+Cell+Key) in Irithyll Dungeon.
 40. Find [Karla](https://darksouls3.wiki.fextralife.com/Karla) in Irithyll Dungeon
@@ -67,18 +71,15 @@ This is a checklist/walkthrough for the quests in Dark Souls 3. The walkthrough 
 55. Defeat [Yhorm](https://darksouls3.wiki.fextralife.com/Yhorm+the+Giant). (Siegward of Catarina will join you.)
 56. Talk to Siegward immediately after defeating Yhorm.
 57. Defeat [Dancer of the Boreal Valley](https://darksouls3.wiki.fextralife.com/Dancer%2Bof%2Bthe%2BBoreal%2BValley)
-58. Find [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) in the Untended Graves.
-59. Give [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) to the Fire Keeper.
-60. Don't allow Greirat to go to Lothric Castle unless you want him to die.
+58. Pass through Consumed King's Garden.
+59. Find [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) in the Untended Graves.
+60. Give [Eyes of a Fire Keeper](https://darksouls3.wiki.fextralife.com/Eyes+of+a+Fire+Keeper) to the Fire Keeper.
+52. Defeat [Ancient Wyvern](https://darksouls3.wiki.fextralife.com/Ancient+Wyvern)
+53. Defeat [Nameless King](https://darksouls3.wiki.fextralife.com/Nameless+King)
 42. Find [Twinkling Dragon Torso Stone](https://darksouls3.wiki.fextralife.com/Twinkling+Dragon+Torso+Stone) in Archdragon Peak.
 43. Talk to Blacksmith Andre. He will give you a message from Hawkwood requesting a duel.
 44. Meet Hawkwood at the Abyss Watchers arena and defeat him.
-48. Buy [Budding Green Blossom](https://darksouls3.wiki.fextralife.com/Budding+Green+Blossom) from Shrine Handmaid
-49. Use summon sign outside the Curse-Rotted Greatwood to be summoned by Sirris to defeat [Hodrick](https://darksouls3.wiki.fextralife.com/Holy+Knight+Hodrick). Loot [Sunset Armor Set](https://darksouls3.wiki.fextralife.com/Sunset+Armor+Set) after returning to your world.
-50. Find [Sunset Shield](https://darksouls3.wiki.fextralife.com/Sunset+Shield) near Firelink Shrine.
-51. Talk to Sirris in Firelink Shrine, accept her service.
-52. Defeat [Ancient Wyvern](https://darksouls3.wiki.fextralife.com/Ancient+Wyvern)
-53. Defeat [Nameless King](https://darksouls3.wiki.fextralife.com/Nameless+King)
+61. Don't allow Greirat to go to Lothric Castle unless you want him to die.
 61. Find [Braille Divine Tome of Lothric](https://darksouls3.wiki.fextralife.com/Braille+Divine+Tome+of+Lothric) and give it to Irina
 62. Buy all the light spells (those not from Londor Braille Divine Tome or the Deep Braille Divine Tome) from Irina of Carim and she will become a fire keeper.
 63. Defeat the [Twin Princes](https://darksouls3.wiki.fextralife.com/Lothric,+Younger+Prince).
